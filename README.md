@@ -90,3 +90,15 @@ Statistical significance of Human Evaluation Results was tested using the **Wilc
 This research was conducted as part of the M.Tech CSE Thesis work at **Shoolini University**. Special thanks to **Puneet Kapoor Sir** for his guidance and support.
 
 ---
+
+## 🤝 Connect With Me
+
+-   [Shivangam Soni](https://shivangam-soni.vercel.app/)
+-   GitHub - [@ShivangamSoni](https://github.com/ShivangamSoni)
+-   LinkedIn - [shivangam-soni](https://www.linkedin.com/in/shivangam-soni/)
+-   ORCiD - [Shivangam Soni](https://orcid.org/0009-0002-3449-817X)
+-   Instagram - [shivangam_soni](https://www.instagram.com/shivangam_soni/)
+-   X - [ShivangamSoni](https://x.com/ShivangamSoni)
+-   Threads - [@shivangam_soni](https://www.threads.net/@shivangam_soni)
+
+---
